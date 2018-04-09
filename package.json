@@ -1,0 +1,21 @@
+{
+  "name": "gitter-backend",
+  "version": "1.0.0",
+  "description": "Tool to help you start open source contributions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "authors": "Harshit Thukral <h.thakral@gmail.com>, Divyansh Mahajan <divyanshmahajan.24@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "lodash": "^4.17.5"
+  }
+}

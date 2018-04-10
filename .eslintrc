@@ -27,31 +27,3 @@
     "no-unused-expressions": 0
   }
 }
-
-
-{
-  "extends": "airbnb-base/legacy",
-  "env": {
-    "browser": true
-  },
-  "globals": {
-    "_": true,
-    "angular": true,
-    "moment": true,
-    "ng": true
-  },
-  "rules": {
-    "comma-dangle": [
-      "error",
-      "never"
-    ],
-    "no-param-reassign": [
-      "error", { "props": false }
-    ],
-    "func-names": [
-      "error",
-      "never"
-    ],
-    "max-len": "off"
-  }
-}

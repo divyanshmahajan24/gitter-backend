@@ -11,11 +11,15 @@
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.10.0"
+    "eslint-plugin-import": "^2.10.0",
+    "nodemon": "^1.17.3"
   },
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.5",
+    "mongodb": "^2.2.16",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1"
   }
 }

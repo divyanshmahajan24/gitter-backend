@@ -1,2 +1,5 @@
 .git
 node_modules
+.gitkeep
+npm-debug.log
+logs

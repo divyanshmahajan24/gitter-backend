@@ -1,4 +1,4 @@
-const ObjectID = require('mongodb').ObjectID;
+/*const ObjectID = require('mongodb').ObjectID;
 
 module.exports = function (app, db) {
   app.post('/notes', (req, res) => {
@@ -48,4 +48,4 @@ module.exports = function (app, db) {
       }
     });
   });
-};
+};*/
